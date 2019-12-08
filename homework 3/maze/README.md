@@ -6,7 +6,7 @@ In this part, I use the dyna-Q learning algorithm to enable the red block to fin
 - If the red block falls into the traps(black block), it will get the reward of -1.
 
 Two maze boards are shown below:
-
+![image](https://github.com/MingCheng991129/AU332_Artificial-Intelligence_SJTU/blob/master/homework%203/maze/maze.png)
 
 The evaluation function I used is *f = u + k/n*.
 
