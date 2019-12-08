@@ -1,1 +1,1 @@
-This repository contains the homework and final project of AU332. 
+This repository contains the homework of AU332. 
