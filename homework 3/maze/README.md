@@ -7,3 +7,7 @@ In this part, I use the dyna-Q learning algorithm to enable the red block to fin
 
 The evaluation function I used is *f = u + k/n*.
 
+*maze_env1.py* and *maze_env2.py* define the maze environment.
+
+*agent.py* is my agent.
+
