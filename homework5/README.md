@@ -6,5 +6,6 @@ by US Geological Survey and USFS.
 We implemented six algorithms: Random Forest, Extra Tree, KNN, Naive Bayes, SVM and Logistic Regression. Also, I use k-fold cross validation 
 to evaluate the performance of the algorithms. 
 
-Among them, Random Forest and Extra Tree behave best, with the accuracy higher than 86%.
+Among them, Random Forest and Extra Tree behave best, with the accuracy higher than 86%. (Later on I will upload the code of 
+Random Forest, KNN and Extra Tree)
 
